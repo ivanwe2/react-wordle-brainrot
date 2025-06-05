@@ -1,6 +1,6 @@
 # Brainrot Wordle
 
-[![Deploy to GitHub Pages](https://github.com/ivanwe2/react-wordle-brainrot/actions/workflows/pages.yml/badge.svg)](https://github.com/ivanwe2/react-wordle-brainrot/actions/workflows/deploy.yml)
+[![Deploy to GitHub Pages](https://github.com/ivanwe2/react-wordle-brainrot/actions/workflows/deploy.yml/badge.svg)](https://github.com/ivanwe2/react-wordle-brainrot/actions/workflows/deploy.yml)
 
 🌐 **Live Demo:** [https://ivanwe2.github.io/react-wordle-brainrot/](https://ivanwe2.github.io/react-wordle-brainrot/)
 
